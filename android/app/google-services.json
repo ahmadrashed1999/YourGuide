@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "167344476216",
+    "project_id": "your-guide-7ccdf",
+    "storage_bucket": "your-guide-7ccdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167344476216:android:4749b749cd1ab2038f96cd",
+        "android_client_info": {
+          "package_name": "com.syncfast.yourguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167344476216-8c9i8dnjnjeheqj73njfla3p5126f8sb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syncfast.yourguide",
+            "certificate_hash": "12756c39ddb7efa3eb7d465716801bb6fa052fb2"
+          }
+        },
+        {
+          "client_id": "167344476216-rj0u31jiu6lh9ttrmstu1qakjg12bq0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzLw0sslYYebsSb449ZVBClU5l7t4XfWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167344476216-rj0u31jiu6lh9ttrmstu1qakjg12bq0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
