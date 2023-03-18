@@ -1,6 +1,6 @@
 # دليلك الجامعي (Your University Guide)
 
-![App Icon](./app-icon.png)
+![App Icon](logo.jpg)
 
 ## Description
 
